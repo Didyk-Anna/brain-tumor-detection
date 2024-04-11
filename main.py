@@ -9,7 +9,7 @@ import torch
 from io import BytesIO
 import tempfile
 import gdown
-#from util import visualize, set_background
+from util import visualize, set_background
 
 set_background('./bg.jpg')
 
